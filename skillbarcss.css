@@ -1,0 +1,57 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+h1
+{
+	margin-left: 2%;
+	margin-top: 3%;
+}
+
+h3
+{
+	margin-top: 4%;
+}
+
+.html
+{
+	width: 95%;
+	background-color: #4caf50;
+}
+
+.css
+{
+	width: 80%;
+	background-color: #2196f3;
+}
+
+.javascript
+{
+	width: 50%;
+	background-color: #f44336;
+}
+
+.container
+{
+	width: 90%;
+	border-radius: 5px;
+	overflow: hidden;
+	margin-top: 10px;
+	background-color: #ddd;
+}
+
+.skills
+{
+    text-align: right;
+    padding: 5px 10px;
+    color: white;
+    animation: load 2s 0s;
+}
+
+@keyframes load {
+	from {
+          width: 0%;
+	}
+}
